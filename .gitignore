@@ -32,3 +32,4 @@ env/
 # System
 .DS_Store
 *.swp
+**/__pycache__/
